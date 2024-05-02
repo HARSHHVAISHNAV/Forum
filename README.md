@@ -1,2 +1,2 @@
 # Forum
-Forum Website using html css js anfd Django
+Forum Website using html css js and Django
